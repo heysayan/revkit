@@ -1,0 +1,3 @@
+[build-system]
+requires = ["setuptools", "wheel","pybind11","sphinx","sphinx_rtd_theme", "halo"]
+build-backend = "setuptools.build_meta"
